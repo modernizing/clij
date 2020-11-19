@@ -16,7 +16,7 @@ Usage
 
 ```
 // add husky & lint-staged
-schematics clij:add-auth
+schematics clij:add-husky
 
 // add eslint 
 schematics clij:add-eslint
