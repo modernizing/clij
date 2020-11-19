@@ -8,10 +8,6 @@
     "add-husky": {
       "description": "A blank schematic.",
       "factory": "./add-husky/index#addHusky"
-    },
-    "update-button": {
-      "description": "A blank schematic.",
-      "factory": "./update-button/index#updateButton"
     }
   }
 }
