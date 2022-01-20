@@ -35,6 +35,4 @@ schematics blank xxx
 LICENSE
 ---
 
-[![Phodal's Idea](http://brand.phodal.com/shields/idea-small.svg)](http://ideas.phodal.com/)
-
 @2020 TW FED.  This code is distributed under the MIT license. See `LICENSE` in this directory.
